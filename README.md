@@ -4,7 +4,7 @@ Project made with Javascript following the <a href="https://www.theodinproject.c
 
 ## See my result here
 
- <a href="https://kfontana.github.io/etch-a-sketch/" target="_blank" rel="noopener noreferrer">Rock Paper Scissors</a>
+ <a href="https://kfontana.github.io/etch-a-sketch/" target="_blank" rel="noopener noreferrer">Etch-a-Sketch</a>
 
 ## Technologies used
 
